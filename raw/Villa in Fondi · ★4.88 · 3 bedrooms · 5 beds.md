@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Apr 19, 2026 · Entire villa · Tra Terracina e Sperlonga, Villa SERENA vi accoglie con 5000 mq di verde privato recintato con 2 posti auto coperti, a 15 minuti a piedi dalla spia..."
 tags:
   - "clippings"
+week-price: 1303
 ---
 ## Villa Serena a 800 m dalla spiaggia
 

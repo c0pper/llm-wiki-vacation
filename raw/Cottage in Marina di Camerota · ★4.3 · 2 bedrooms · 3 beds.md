@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Apr 19, 2026 · Entire cottage · Magnifica Villa vista mare a Marina di Camerota, nel parco nazionale del Cilento con ampio scoperto, recintato. Posto incantevole, lontano dal caos..."
 tags:
   - "clippings"
+week-price: 1419
 ---
 ## Villa vista mare, nel parco Marina di C.
 

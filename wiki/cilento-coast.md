@@ -8,13 +8,13 @@
 
 ## Properties in Cilento
 
-| Property | Rating | BR | Beach | Notes |
-|----------|--------|-----|-------|-------|
-| [[home-pisciotta]] | ★4.96 | 3 | Walkable | Guest favorite |
-| [[home-scario]] | ★4.6 | 2 | Walkable | 25 reviews |
-| [[home-palinuro]] | ❌ | 3 | Beachfront | No rating |
-| [[cottage-marina-camerota]] | ★4.3 | 2 | Walkable | Sea views |
-| [[home-pollica]] | ❌ | 2 | Private | ⚠️ no reviews |
+| Property | Rating | BR | Beach | Week | Notes |
+|----------|--------|-----|-------|------|-------|
+| [[home-pisciotta]] | ★4.96 | 3 | Walkable | €1138 | Guest favorite |
+| [[home-scario]] | ★4.6 | 2 | Walkable | €827 | 25 reviews |
+| [[home-palinuro]] | ❌ | 3 | Beachfront | €1105 | No rating |
+| [[cottage-marina-camerota]] | ★4.3 | 2 | Walkable | €1419 | Sea views |
+| [[home-pollica]] | ❌ | 2 | Private | €899 | ⚠️ no reviews |
 
 ## Best Options
 

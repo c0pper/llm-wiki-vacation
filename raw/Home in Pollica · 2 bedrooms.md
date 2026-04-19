@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Apr 19, 2026 · Entire home · All discounts are already included, please go ahead and book the property if your travel dates are available. Below please see all the listing deta..."
 tags:
   - "clippings"
+week-price: 899
 ---
 ## HAUS ELENA by Interhome
 

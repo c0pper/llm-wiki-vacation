@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Apr 19, 2026 · Entire home · Appartamento di circa 70 mq con ingresso privato e ampia zona esterna attrezzata chiusa, ideale per famiglie con bambini, si compone di: cucina , 1..."
 tags:
   - "clippings"
+week-price: 1105
 ---
 ## Appartamento Faro
 

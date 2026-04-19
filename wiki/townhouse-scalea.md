@@ -20,6 +20,7 @@
 | Beach | Private (100m) |
 | Pets | Not specified |
 | Parking | Free on premises |
+| Week price | €1222 |
 
 ## Features
 

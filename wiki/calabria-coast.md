@@ -8,12 +8,12 @@
 
 ## Properties in Calabria
 
-| Property | Rating | BR | Beach | Notes |
-|----------|--------|-----|-------|-------|
-| [[townhouse-scalea]] | ★4.94 | 2 | Private | Guest favorite |
-| [[home-villapiana-lido]] | ❌ | 2 | 200m | Pool |
-| [[home-roseto-capo-spulico]] | New | 2 | - | No reviews |
-| [[home-cucco-riviere]] | ❌ | 2 | 250m | Private pool |
+| Property | Rating | BR | Beach | Week | Notes |
+|----------|--------|-----|-------|------|-------|
+| [[townhouse-scalea]] | ★4.94 | 2 | Private | €1222 | Guest favorite |
+| [[home-villapiana-lido]] | ❌ | 2 | 200m | €1050 | Pool |
+| [[home-roseto-capo-spulico]] | New | 2 | - | €798 | No reviews |
+| [[home-cucco-riviere]] | ❌ | 2 | 250m | €1446 | Private pool |
 
 ## Best Options
 

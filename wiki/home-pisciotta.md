@@ -20,6 +20,7 @@
 | Beach | Beachfront (walkable) |
 | Pets | Not allowed |
 | Parking | Free on premises |
+| Week price | €1138 |
 
 ## Features
 

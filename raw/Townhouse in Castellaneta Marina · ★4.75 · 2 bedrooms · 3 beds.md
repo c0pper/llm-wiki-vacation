@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Apr 19, 2026 · Entire townhouse · Appartamento in villa immerso nella pineta – a circa 200 metri dal mare Accogliente appartamento e grande terrazza panoramica  perfetta per momenti..."
 tags:
   - "clippings"
+week-price: 1102
 ---
 ## La casa di Ester con terrazza sulla pineta
 

@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Apr 19, 2026 · Entire home · Rilassati con tutta la famiglia in questo alloggio tranquillo. Fittasi per brevi periodi villetta con giardino ad uso esclusivo, dotata di impianto..."
 tags:
   - "clippings"
+week-price: 880
 ---
 ## casa a 50 mt dal mare
 

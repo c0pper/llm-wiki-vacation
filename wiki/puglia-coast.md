@@ -8,11 +8,11 @@
 
 ## Properties in Puglia
 
-| Property | Rating | BR | Beach | Notes |
-|----------|--------|-----|-------|-------|
-| [[villa-castellaneta]] | ★5.0 | 3 | Walkable | Perfect rating |
-| [[townhouse-castellaneta]] | ★4.75 | 2 | 200m | Superhost |
-| [[villa-hotel-tivigest]] | ★4.6 | 3 | 500m | Pets ok |
+| Property | Rating | BR | Beach | Week | Notes |
+|----------|--------|-----|-------|------|-------|
+| [[villa-castellaneta]] | ★5.0 | 3 | Walkable | €1360 | Perfect rating |
+| [[townhouse-castellaneta]] | ★4.75 | 2 | 200m | €1102 | Superhost |
+| [[villa-hotel-tivigest]] | ★4.6 | 3 | 500m | €1208 | Pets ok |
 
 ## Best Options
 

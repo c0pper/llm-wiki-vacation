@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Apr 19, 2026 · Entire home · Situato nel centro del paese, nel Parco nazionale del Cilento e Vallo Diano. Porto e spiagge accessibili a piedi. Terrazza con vista sul mare e ter..."
 tags:
   - "clippings"
+week-price: 827
 ---
 ## Cilento:T3 à proximité de la mer
 

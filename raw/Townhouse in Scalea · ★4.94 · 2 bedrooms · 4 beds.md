@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Apr 19, 2026 · Entire townhouse · Incantevole villa a schiera, situata nel parco più bello e prestigioso di Scalea, con discesa privata alla spiaggia del complesso residenziale. La ..."
 tags:
   - "clippings"
+week-price: 1222
 ---
 ## MAtti 1965
 

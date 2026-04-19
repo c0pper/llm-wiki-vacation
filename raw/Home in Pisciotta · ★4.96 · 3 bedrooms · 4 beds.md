@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Al Piano di Mare, Pisciotta"
 tags:
   - "clippings"
+week-price: 1138
 ---
 ## Al Piano di Mare, Pisciotta
 

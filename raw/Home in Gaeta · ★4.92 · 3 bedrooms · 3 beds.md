@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Apr 19, 2026 · Entire home · Luminosissima superpanoramica sulla baia di Serapo a 300 metri a piedi dalla spiaggia.  Con 2 camere da letto matrimoniali una singola, sala da pra..."
 tags:
   - "clippings"
+week-price: 1401
 ---
 ## La Nave di Serapo House
 

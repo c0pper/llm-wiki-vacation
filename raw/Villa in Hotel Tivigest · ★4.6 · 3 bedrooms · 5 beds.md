@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Apr 19, 2026 · Entire villa · Two-storey villa with large garden, in Basilicata just 500 meters from the crystal clear waters of the Ionian Sea. Carefully furnished and equipped..."
 tags:
   - "clippings"
+week-price: 1208
 ---
 ## Summer House distant 500 mt from the sea
 

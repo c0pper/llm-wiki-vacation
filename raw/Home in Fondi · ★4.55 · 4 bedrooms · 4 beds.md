@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Apr 19, 2026 · Entire home · La casa è una villetta a schiera situata in un comprensorio curato e chiuso al traffico, che si sviluppa lungo la costa con accesso diretto al mare..."
 tags:
   - "clippings"
+week-price: 1173
 ---
 ## Villetta in un complesso residenziale sul mare
 

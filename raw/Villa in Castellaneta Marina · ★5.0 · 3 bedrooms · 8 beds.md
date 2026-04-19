@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Apr 19, 2026 · Entire villa · La villa è nella zona centrale di Castellaneta marina, a poca distanza dai lidi. La villa è immersa nella pineta ed è situata su una duna, in zona ..."
 tags:
   - "clippings"
+week-price: 1360
 ---
 ## Villa colle d’oro
 

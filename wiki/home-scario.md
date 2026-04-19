@@ -20,6 +20,7 @@
 | Beach | Walkable |
 | Pets | Not allowed |
 | Parking | Paid (not owned) |
+| Week price | €827 |
 
 ## Features
 

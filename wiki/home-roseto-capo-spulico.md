@@ -20,6 +20,7 @@
 | Beach | - |
 | Pets | Allowed |
 | Parking | Free carport |
+| Week price | €798 |
 
 ## Features
 

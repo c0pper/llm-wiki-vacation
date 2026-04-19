@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Apr 19, 2026 · Entire home · **Dom z widokiem na morze i góry **   Miejsce o prawdziwym włoskim lecie – pełnym słońca, krystalicznie czystego morza i klimatu małego miasteczka...."
 tags:
   - "clippings"
+week-price: 798
 ---
 ## Boho Villa Justyna
 

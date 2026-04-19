@@ -20,6 +20,7 @@
 | Beach | Private (300m) |
 | Pets | Allowed (1 medium) |
 | Parking | 2 (1 carport) |
+| Week price | €899 |
 
 ## Features
 

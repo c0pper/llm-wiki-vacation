@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Apr 19, 2026 · Entire home · Enjoy the Mediterranean lifestyle in this charming holiday home with sea views and a private pool."
 tags:
   - "clippings"
+week-price: 1446
 ---
 ## Nice home in Diamante
 

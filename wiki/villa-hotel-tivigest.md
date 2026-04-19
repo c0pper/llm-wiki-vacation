@@ -20,6 +20,7 @@
 | Beach | 500m |
 | Pets | Allowed |
 | Parking | Free on premises |
+| Week price | €1208 |
 
 ## Features
 

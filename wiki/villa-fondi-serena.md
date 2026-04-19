@@ -20,6 +20,7 @@
 | Beach | 800m (15 min walk) |
 | Pets | Not allowed |
 | Parking | Free carport (2 spaces) |
+| Week price | €1303 |
 
 ## Features
 
@@ -44,6 +45,5 @@ Giuseppe - Superhost, 2 years hosting, responds within hour
 
 ## Related pages
 
-- [[villa-san-felice-circeo]]
 - [[home-gaeta-luca]]
 - [[lazio-coast]]

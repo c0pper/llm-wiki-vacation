@@ -20,6 +20,7 @@
 | Beach | 50m (beach access) |
 | Pets | Not allowed |
 | Parking | Free on premises |
+| Week price | €880 |
 
 ## Features
 

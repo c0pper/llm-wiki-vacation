@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Apr 19, 2026 · Entire home · Con questo alloggio in centro, la tua famiglia sarà vicina a tutto."
 tags:
   - "clippings"
+week-price: 1050
 ---
 ## Casa vacanza "hic sumus felix"
 

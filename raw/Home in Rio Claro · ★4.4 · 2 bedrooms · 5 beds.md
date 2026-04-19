@@ -7,6 +7,7 @@ created: 2026-04-19
 description: "Apr 19, 2026 · Entire home · La casa è una villetta a schiera in un comprensorio tranquillo con piscina condominiale, che si sviluppa vicino al mare a cui si accede da un viale..."
 tags:
   - "clippings"
+week-price: 1384
 ---
 ## Villetta a 600mt dal mare vicinissima a Sperlonga!
 
